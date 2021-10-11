@@ -4,7 +4,7 @@
 
 I‌‌ ‌ am‌‌ ‌an‌‌ ‌I.T‌‌ ‌student‌‌ ‌who‌‌ ‌loves‌‌ ‌to‌‌ ‌work‌‌ ‌on‌‌ ‌building‌‌ ‌models‌‌ ‌that‌‌ ‌can‌‌ ‌help‌‌ ‌to‌‌ ‌translate‌‌ ‌ data‌‌ ‌ points ‌ into‌‌ ‌ actionable‌‌ ‌ business‌‌ ‌ insights
 
-Skills: python/c++/sql/weka/ JS / HTML / CSS
+Skills:[My_Resume   📄->(https://docs.google.com/document/d/1gxSu0D-DmE3kzlObYYilcDBA25DWnFmGCXk0CGzToqk/edit?usp=sharing)]
 
 - 🔭 I’m currently working on English Premier League Performance Data 
 - 🌱 I’m currently learning Data Science 
