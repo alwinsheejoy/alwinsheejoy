@@ -21,3 +21,6 @@ Skills:[My_Resume   📄->(https://docs.google.com/document/d/1gxSu0D-DmE3kzlObY
 ![Profile views](https://gpvc.arturio.dev/alwinsheejoy)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwinsheejoy)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alwin C Sheejoy](https://raw.githubusercontent.com/JinsoRaj/JinsoRaj/main/assets/jr-bottom-banner.svg)
+
