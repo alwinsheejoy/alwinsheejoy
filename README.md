@@ -1,16 +1,16 @@
 ### Hi there 👋, I am Alwin C Sheejoy
-#### Data Analyst
-![Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQG7FRpvh926UA/profile-displaybackgroundimage-shrink_350_1400/0/1590655466577?e=1639612800&v=beta&t=zvBB_5OZ_j16xgA_KQI8lU4OaqXbXe7gNoI-E--ocaM)
+#### Software Engineer
+![Software Engineer]
 
-I‌‌ ‌ am‌‌ ‌an‌‌ ‌I.T‌‌ ‌student‌‌ ‌who‌‌ ‌loves‌‌ ‌to‌‌ ‌work‌‌ ‌on‌‌ ‌building‌‌ ‌models‌‌ ‌that‌‌ ‌can‌‌ ‌help‌‌ ‌to‌‌ ‌translate‌‌ ‌ data‌‌ ‌ points ‌ into‌‌ ‌ actionable‌‌ ‌ business‌‌ ‌ insights
+Highly skilled software engineer with expertise in full-stack development, leveraging innovative technologies to deliver robust and scalable solutions
 
 Skills:[My_Resume   📄->(https://docs.google.com/document/d/1gxSu0D-DmE3kzlObYYilcDBA25DWnFmGCXk0CGzToqk/edit?usp=sharing)]
 
-- 🔭 I’m currently working on English Premier League Performance Data 
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on Data Analytic projects 
-- 💬 Ask me about Data Analysis 
-- 📫 How to reach me: alwincsheejoy98@gmail.com 
+- 🔭 I am currently developing loyalty software for flight companies.
+- 🌱 I’m currently learning Scalable Java Microservices with Spring Boot and Spring Cloud  
+- 👯 I’m looking to collaborate on software development projects 
+- 💬 Ask me about software development 
+- 📫 How to reach me: alwinsheejoy98.uk@gmail.com 
 - 😄 Pronouns: aloo 
 
 
